@@ -1,4 +1,4 @@
-# 🧬 AI-Powered Biological Age Prediction & Biomarker Discovery in Human Muscle 👵➡️👶
+# 🧬 ML-Powered Biological Age Prediction & Biomarker Discovery in Human Muscle 👵➡️👶
 
 ## Table of Contents
 -   [🌟 Overview](#-overview)
