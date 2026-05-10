@@ -170,5 +170,5 @@ The analysis yielded a prioritized list of genes most influential in predicting 
 
 Feel free to reach out if you have any questions, suggestions, or collaboration opportunities!
 
-**Email:** [akshat.bio@proton.me](mailto:akshat.bio@proton.me)
-**LinkedIn:** [Akshat Jaiswal](https://www.linkedin.com/in/akshat-jaiswal-9234b5384/)
+**Email:** [omicsflow.lab@gmail.com](mailto:omicsflow.lab@gmail.com)
+**LinkedIn:** [Omics Flow Lab](https://www.linkedin.com/in/akshat-jaiswal-i-omics-flow-lab-9234b5384/)
